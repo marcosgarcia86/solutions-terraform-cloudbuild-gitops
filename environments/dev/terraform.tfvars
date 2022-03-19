@@ -1,1 +1,1 @@
-project="PROJECT_ID"
+project="bs2-no-prd-host-project"
